@@ -2,6 +2,7 @@
 var nombreUsuario = "Elias";
 var saldoCuenta = 12092;
 var limiteExtraccion = 5000;
+
 //Ejecución de las funciones que actualizan los valores de las variables en el HTML.
 window.onload = function() {
     cargarNombreEnPantalla();
